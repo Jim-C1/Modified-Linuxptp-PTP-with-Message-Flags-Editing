@@ -1,9 +1,11 @@
-# Modified_Linuxptp_with_PTP_Message_Flags Editing
+* Modified_Linuxptp_with_PTP_Message_Flags Editing
 
-## Modifications by Jim C
-**Date**:  13.Oct.2024  
+** Modifications by Jim C
 
-**Summary**: This project is based on linuxptp 3.1.1. We have made the following changes:
+**Date:  13.Oct.2024  
+
+**Summary:  
+This project is based on linuxptp 3.1.1. We have made the following changes:
 - Added 'FlagField' flags to the following PTP messages:
   1. Pdelay request
   2. Pdelay response
@@ -12,16 +14,16 @@
   5. Pdelay response follow-up
 - All code changes are located in the `port.c` file.
 
-## Disclaimer
+** Disclaimer
 This project is intended for demonstration purposes only and is not suitable for production environments.
 
-## Getting the Modified Version
+** Getting the Modified Version
 This repository contains modifications to the original linuxptp project, version 3.1.1. You can down the modified version with the changes mentioned above on this github page.
 
-## Future Plan
+** Future Plan
 We plan to update this project with more detailed information about the changes and the reasoning behind them in the near future.
 
-## The original project
+** The original project
 For details on the original project, please refer to the information below.
 
 
@@ -254,7 +256,7 @@ Hardware Receive Filter Modes: none
   - http://www.omicron-lab.com/ptp
 
 
-## Acknowledgments
+* Acknowledgments
 
 I would like to express my gratitude to the linuxptp project and its entire development team for their hard work and dedication, which provided a strong and reliable foundation for this project. As this is my first attempt at an open-source project, I recognize that my modifications may not fully meet the community's standards. I welcome any feedback or suggestions for improvement and truly appreciate your understanding as I continue learning throughout this process. Thank you for your support!
 
