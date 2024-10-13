@@ -252,3 +252,10 @@ Hardware Receive Filter Modes: none
   For testing I use an OTMC 100 grandmaster clock donated by OMICRON Lab.
 
   - http://www.omicron-lab.com/ptp
+
+
+## Acknowledgments
+
+I would like to express my gratitude to the linuxptp project and its entire development team for their hard work and dedication, which provided a strong and reliable foundation for this project. As this is my first attempt at an open-source project, I recognize that my modifications may not fully meet the community's standards. I welcome any feedback or suggestions for improvement and truly appreciate your understanding as I continue learning throughout this process. Thank you for your support!
+
+
