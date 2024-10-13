@@ -2,7 +2,7 @@
 
 Modifications by Jim C
 
-** Date:  13.Oct.2024  
+Date:  13.Oct.2024  
 
 ** Summary:  
 This project is based on linuxptp 3.1.1. We have made the following changes:
@@ -166,27 +166,27 @@ Hardware Receive Filter Modes: none
       directories by setttings the variables prefix, sbindir, mandir,
       and man8dir on the make command line.
 
-* Getting Involved
+* Getting Involved (original project)
 
   The software development is hosted at Source Forge.
 
   https://sourceforge.net/projects/linuxptp/
 
-** Reporting Bugs
+** Reporting Bugs (original project)
 
    Please report any bugs or other issues with the software to the
    linuxptp-users mailing list.
 
    https://lists.sourceforge.net/lists/listinfo/linuxptp-users
 
-** Development
+** Development (original project)
 
    If you would like to get involved in improving the software, please
    join the linuxptp-devel mailing list.
 
    https://lists.sourceforge.net/lists/listinfo/linuxptp-devel
 
-*** Submitting Patches
+*** Submitting Patches (original project)
 
    1. Before submitting patches, please make sure that you are starting
       your work on the *current HEAD* of the git repository.
